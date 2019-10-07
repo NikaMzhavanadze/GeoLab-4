@@ -1,0 +1,173 @@
+
+/* @import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css"); */
+/* base classic */
+.conteiner{
+    width: 1170px;
+    margin: 20px auto;
+}
+.display-inline-block{
+    display: inline-block;
+
+}
+/* base classic */
+
+/* header */
+header{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 77px;
+}
+.header-nav > ul{
+    vertical-align: bottom;
+    margin-left: 50px;
+}
+.header-nav > ul > li{
+    vertical-align: bottom;
+    display: inline-block;
+    margin-right: 24px;
+}
+.clicked{
+    color: red;
+}
+header > a > img{
+    width: 100px;
+    vertical-align: bottom;
+}
+.nav-a{
+    /* font-family: "BPG Nino Mtavruli Bold", sans-serif; */
+    font-size: 22px;
+}
+/* end header */
+
+/* banner section */
+
+/* end banner section */
+
+/* featured-section */
+.article-box{
+    width: 570px;
+    background: #F2F2F2;
+    vertical-align: top;
+    padding: 15px 18px 40px 15px;
+    /* margin-right: 15px; */
+    height: 225px;
+    
+}
+.article-box-margin{
+    margin-right: 30px;
+}
+.image-article{
+    height: 130px;
+    vertical-align: top;
+    margin-right: 30px;
+}
+.article-p{
+    width: 345px;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: normal;
+}
+.article-title{
+    margin-bottom: 18px;
+}
+.article-wraper{
+    margin-top: 20px;
+    font-weight: bold;
+    width: 1500px;
+}
+.wraper-title{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+.wraper-title a{
+    text-transform: lowercase;
+}
+
+/* end featured-section */
+
+/* contact-page */
+.contact-section{
+    background-color: #E6E6E6;
+    padding-top: 40px;
+    padding-bottom: 55px;
+}
+.contact-span{
+    font-size: 16px;
+    color: #808080;
+    /* ფონტი შესაცვლელია */
+    font-family: 'Roboto', sans-serif;
+}
+.contact-title{
+    color: #3D58A6;
+    font-size: 20px;
+}
+.left-block{
+    vertical-align: top;
+    padding-right: 55px;
+}
+.right-block{
+    vertical-align: top;
+}
+iframe{
+    /* display: inline-block; */
+    width: 860px;
+    height: 466px;
+}
+/* end contact-page */
+
+/* footer */
+
+.footer-nav{
+    margin-top: 68px;
+    width: 150px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.divador{
+    height: 30px;
+    width: 2px;
+    background-color: #3D58A6;
+    margin-right: 30px;
+}
+.footer-img{
+    height: 30px;
+}
+.footer-a{
+    margin-right: 30px;
+}
+
+/* news */
+.news-main{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.news-section-p-1{
+    font-size: 48px;
+    background-color: #3D58A6;
+    color: white;
+    width: 56px;
+    padding-left: 4px;
+}
+.news-section-p-2{
+    font-size: 22px;
+    color: #3D58A6;
+    margin-top: 8px;
+    margin-bottom: 28px;
+}
+.news-h2{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+.news-main-div-img{
+    width: 270px;
+}
+.news-p{
+    width: 930px;
+    height: 330px;
+    vertical-align: top;
+    margin-left: 38px;
+    margin-bottom: 69px;
+    font-family:'BPG Ingiri Arial';
+}
